@@ -1,0 +1,11 @@
+{
+	"meta": {},
+	"layout": [
+		{ "component": "header", "props": null, "children": null },
+		{
+			"component": "block",
+			"props": {"title":"container block"},
+			"children": [{ "component": "header", "props": null, "children": null }]
+		}
+	]
+}
